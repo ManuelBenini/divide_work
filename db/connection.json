@@ -1,0 +1,7 @@
+{
+    "host": "localhost" , 
+    "user":"root" , 
+    "passwd": "Leagueofdraven19",
+    "port": "3306",
+    "database": "sakila"
+}
